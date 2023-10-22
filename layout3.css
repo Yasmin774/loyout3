@@ -1,0 +1,31 @@
+/*Reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    background-color: rgb(219, 205, 7);
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    height: 80vh;
+    width: 100vw;
+    background-color: rgb(138, 219, 7);
+}
+
+footer {
+    height: 10vh;
+    width: 100vw;
+    background-color: rgb(219, 205, 7);
+}
+
+
+
